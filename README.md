@@ -16,10 +16,9 @@ A complete Full-Stack web application built to manage inventory, track sales, an
 - **Database:** MS SQL Server (ADO.NET)
 
 ## 📸 Screenshots
-
-<img width="1903" height="369" alt="Screenshot 2026-02-22 145204" src="https://github.com/user-attachments/assets/12433bd7-970a-4895-ac69-cd1d10e5895a" />
-<img width="1904" height="933" alt="Screenshot 2026-02-22 145158" src="https://github.com/user-attachments/assets/12d68cc3-88ba-441d-b5b5-b3d787c365b9" />
-<img width="1903" height="943" alt="Screenshot 2026-02-22 145151" src="https://github.com/user-attachments/assets/8f8c1bb7-38ed-4fec-89af-1101a27712d0" />
+<img width="1903" height="943" alt="Screenshot 2026-02-22 145151" src="https://github.com/user-attachments/assets/087f128e-7c32-4c3a-84ac-b770c7261611" />
+<img width="1904" height="933" alt="Screenshot 2026-02-22 145158" src="https://github.com/user-attachments/assets/0ceb60f4-dc98-4cd2-9de9-8da0acba8a1e" />
+<img width="1903" height="369" alt="Screenshot 2026-02-22 145204" src="https://github.com/user-attachments/assets/41549585-fd00-44b7-b301-3a8dcf0a6b1b" />
 
 ## 💡 Architecture & Workflow
 
