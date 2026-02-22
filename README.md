@@ -1,5 +1,4 @@
-<img width="1903" height="943" alt="Screenshot 2026-02-22 145151" src="https://github.com/user-attachments/assets/f39759d5-a847-442b-85b0-99ac1a37ff85" /># 🏢 Smart Inventory Management Dashboard
-
+# 🏢 Smart Inventory Management Dashboard
 A complete Full-Stack web application built to manage inventory, track sales, and analyze data in real-time. This project demonstrates a solid architecture, connecting a responsive front-end interface directly to a relational database through a robust back-end API.
 
 ## 🚀 Features
